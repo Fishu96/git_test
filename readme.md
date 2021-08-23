@@ -1,0 +1,1 @@
+This is Fishu's first git project!
